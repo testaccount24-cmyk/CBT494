@@ -1,0 +1,6 @@
+2025-04-04 10:39:14.560449 - Received CBT.V508.FILE494.PDS from FILE494.XMI 
+2025-04-04 10:39:14.561155 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:39:14.561515 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE
+2025-04-04 10:39:14.561717 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/$$NOTE1
+2025-04-04 10:39:14.561860 - Found @FILE494.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/@FILE494
+2025-04-04 10:39:14.561986 - Found IKJEESX9.txt (text/plain) in CBT.V508.FILE494.PDS, moved to PDS/IKJEESX9
